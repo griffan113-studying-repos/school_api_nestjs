@@ -10,8 +10,8 @@
 
 # Technologies Used:
 
-<p align="center">
-  > GraphQL;
-  > TypeORM;
-  > MongoDB;
-</p>
+> GraphQL;
+> TypeORM;
+> MongoDB;
+
+### Still in development!
