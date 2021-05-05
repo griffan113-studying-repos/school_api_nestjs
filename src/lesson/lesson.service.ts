@@ -1,8 +1,9 @@
 import { Injectable } from "@nestjs/common";
 import { InjectRepository } from "@nestjs/typeorm";
 import { Repository } from "typeorm";
-import { Lesson } from "./lesson.entity";
 import { v4 as uuid } from "uuid";
+
+import { Lesson } from "./lesson.entity";
 import { LessonsDto } from "./models/lesson.dto";
 
 /*
